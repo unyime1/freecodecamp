@@ -1,0 +1,41 @@
+form{
+    border-radius: 0.25rem;
+    border: 2px solid black;
+    width: 700px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gold;
+}
+
+#title{
+    text-align: center;
+}
+
+#description{
+    text-align: center;
+}
+
+body{
+    background-color: ghostwhite !important;
+}
+
+label{
+    display: flex;
+
+}
+
+.form-control{
+    width: 100%;
+}
+
+.my-btn{
+    min-height: 1.2rem;
+    min-width: 1.2rem;
+   
+}
+
+#comments{
+    border: 2;
+}
